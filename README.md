@@ -14,7 +14,7 @@ Copy `maksforge.ping_distance_<version>.wotmod` into `World_of_Tanks/mods/<game 
 
 ```sh
 ./build.sh                       # needs zip and Python 2.7: pyenv 2.7.18, or set PYTHON27
-python2.7 tests/test_patch.py
+python3 tests/test_patch.py
 ```
 
 ## Support
