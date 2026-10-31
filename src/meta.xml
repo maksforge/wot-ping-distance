@@ -1,0 +1,6 @@
+<root>
+	<id>maksforge.ping_distance</id>
+	<version>0.1.0</version>
+	<name>Ping Distance</name>
+	<description>Keeps the distance visible on map position pings (T key), not only while aiming at them.</description>
+</root>
